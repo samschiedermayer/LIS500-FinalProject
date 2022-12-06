@@ -5,6 +5,9 @@ body {
 h1 {
     color: #ebcdd4;
 }
+h2 {
+    color: #ebcdd4;
+}
 h3 {
     color: #ebcdd4;
 }
@@ -87,4 +90,11 @@ h3 {
 .ff-form .ff-layout-default .ff-public-mode {
 
   vertical-align: middle;
+}
+
+.test-button {
+  background-color: #333;
+  border-color: #ebcdd4;
+  padding: 8px;
+  border-radius: 8px;
 }
