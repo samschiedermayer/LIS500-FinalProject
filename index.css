@@ -98,3 +98,18 @@ h3 {
   padding: 8px;
   border-radius: 8px;
 }
+
+.bootstrap-btn {
+	display: inline-block;
+	font-weight: 400;
+	color: #2c2c6a;
+	text-align: center;
+	border: 1px solid transparent;
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	border-radius: .25rem;
+	color: #2c2c6a;
+	background-color: #ebcdd4;
+}
+
