@@ -113,3 +113,10 @@ h3 {
 	background-color: #ebcdd4;
 }
 
+
+.bootstrap-btn:hover{
+  background-color: #1c6c8c;
+  color: #ebcdd4;
+	
+}
+
