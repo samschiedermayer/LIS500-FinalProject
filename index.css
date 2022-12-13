@@ -17,6 +17,15 @@ h3 {
     margin: 0 auto;
 }
 
+.main .description {
+  padding: 25px;
+  padding-bottom: 35px;
+  background-color: #450B83;
+  width: auto;
+  margin: auto;
+  position: relative;
+}
+
 .navbar {
     background-color: #274156;
     overflow: hidden;
