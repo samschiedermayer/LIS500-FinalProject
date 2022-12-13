@@ -136,3 +136,13 @@ h3 {
   margin-right: auto;
 }
 
+.sunImg {
+  width: 200px;
+  height: 200px;
+  margin: 8px;
+  display: inline-block;
+}
+
+.bannerImg {
+  display: inline-block;
+}
