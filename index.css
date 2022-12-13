@@ -111,6 +111,9 @@ h3 {
 	border-radius: .25rem;
 	color: #2c2c6a;
 	background-color: #ebcdd4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
